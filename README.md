@@ -7,3 +7,5 @@ tell a data story about a subset of the data science community represented in th
 Composition - Is there a clear narrative thread to the story that’s articulated and supported by data? The subject should be well defined, well researched, and well supported through the use of data and visualizations.
 Originality - Does the reader learn something new through this submission? Or is the reader challenged to think about something in a new way? A great entry will be informative, thought provoking, and fresh all at the same time.
 Documentation - Are your code, and notebook, and additional data sources well documented so a reader can understand what you did? Are your sources clearly cited? A high quality analysis should be concise and clear at each step so the rationale is easy to follow and the process is reproducible
+
+### [Previous winning notebook](https://www.kaggle.com/c/kaggle-survey-2021/discussion/278542)
